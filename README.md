@@ -5,8 +5,8 @@
 ## 👋 I'm Ibrahim
 **Communication Engineering Student | Linux Enthusiast | C++ Developer**
 
-[![Telegram](https://img.shields.io/badge/Connect-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/spxd007)
-<img src="https://komarev.com/ghpvc/?username=SP-XD&style=for-the-badge&color=orange&label=PROFILE+VIEWS" />
+[![Telegram](https://img.shields.io/badge/Telegram-26A8E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aboabdo2023xn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ibra.hem.12)
 
 <hr>
 
