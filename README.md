@@ -29,7 +29,7 @@
 ### 🖥️ Hardware Setup (The Lab)
 - **Primary OS:** Linux Mint (Efficiency over everything)
 - **Target Gear:** Looking forward to the **HP Victus** for heavy lifting engineering tasks.
-- **Visuals:** High-refresh-rate enthusiast (120Hz+ for that smooth scroll).
+- **Visuals:** High-refresh-rate enthusiast (144Hz+ for that smooth scroll).
 
 ### ⚙️ Progress Tracker
 ```cpp
