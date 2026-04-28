@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%"/> 
-
 ## 👋 Hi, I'm Ibrahim
 **Communication Engineering Student | Linux Mint Power User | C++ Dev**
+
+<br>
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/gifs/v3.gif" width="60%" />
+
+<br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A8E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aboabdo2023xn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ibra.hem.12)
