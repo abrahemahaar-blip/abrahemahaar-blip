@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/male-programmer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--person-logo-developer-pack-people-illustrations-5384462.png" width="50%" />
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/gifs/v3.gif?raw=true" width="55%" />
 
 <br>
 
