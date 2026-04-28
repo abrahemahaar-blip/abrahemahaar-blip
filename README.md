@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/gifs/v3.gif" width="60%" />
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/male-programmer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--person-logo-developer-pack-people-illustrations-5384462.png" width="50%" />
 
 <br>
 
@@ -30,13 +30,13 @@
 - 🎓 **Academic:** Surviving **Communication Engineering** (Year 2) – Send help!
 - 🐧 **OS:** Proud **Linux Mint** user because Windows was testing my patience.
 - 🧠 **Focus:** Deep diving into **Data Structures** with **C++**.
-- 🛠️ **Hardware:** My specs are a **Classified Military Secret**.. Let's just say it runs code and doubles as a room heater in winter. 🔥
+- 🛠️ **Hardware:** My specs are a **Classified Military Secret**.. It runs code and doubles as a room heater. 🔥
 
-### 🤣 Programmer's Life (The Struggle)
+### 🤣 Programmer's Life
 - 💡 **Fact:** Banging your head against a wall burns 150 calories, but **debugging** burns your soul.
 - 🕵️ **Debugging:** Being the detective in a movie where you are also the murderer.
-- ☕ **Code Bio:** I'm a machine that turns **Tea & Coffee** into working code (mostly errors though).
-- 💻 **Linux Life:** I don't always use Linux, but when I do, I spend 3 hours fixing a font I'll never use.
+- ☕ **Code Bio:** I'm a machine that turns **Tea & Coffee** into working code.
+- 💻 **Linux Life:** I spend 3 hours fixing a font I'll never use.
 
 ### ⚙️ Routine.cpp
 ```cpp
